@@ -1,3 +1,4 @@
 #!/usr/bin/python
 
-Print	"Prokek pertama"
+print	"Proyek pertama"
+print	"proyek Kedua"
